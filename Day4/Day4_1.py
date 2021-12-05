@@ -116,18 +116,3 @@ print(last_number)
 print(score)
 print("Here's your value Sir. : ", score*last_number)
 
-#for mat in matrices:
-#    mat.numberExtracted(7)
-#    mat.numberExtracted(4)
-#    mat.numberExtracted(9)
-#    mat.numberExtracted(5)
-#    mat.numberExtracted(11)
-#    mat.numberExtracted(17)
-#    mat.numberExtracted(23)
-#    mat.numberExtracted(2)
-#    mat.numberExtracted(0)
-#    mat.numberExtracted(14)
-#    mat.numberExtracted(21)
-#    mat.numberExtracted(24)
-#    print(mat.isWinning())
-
